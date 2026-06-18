@@ -11,6 +11,5 @@
 > Currently exploring AI engineering, intelligent agents, and how ideas become systems.
 
 ## Current Projects
-
-- [RAG-System设计指南](https://github.com/hugoiee/RAG-System)
-- [Agentic-System设计指南](https://github.com/hugoiee/Agent-Research)
+- [OpenFlow](https://github.com/hugoiee/OpenFlow)
+- [我的个人Skill仓库](https://github.com/hugoiee/hugo-skills)
