@@ -1,6 +1,6 @@
 # Hi, I'm Hugo 👋
 
-📌 BeiJing <-> San Francisco ｜ LLM development 
+📌 BeiJing 
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kimhugoiee) ｜ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kimhugoiee@gmail.com) 
 
